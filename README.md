@@ -1,21 +1,16 @@
 # Olá, eu sou o Bruno!
 
-### 💻 Tecnologias & Ferramentas | Tech Stack
+## 💻 Tecnologias & Ferramentas | Tech Stack
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" hspace="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" hspace="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" hspace="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" hspace="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" hspace="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" hspace="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" hspace="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" hspace="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" hspace="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" hspace="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" hspace="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" hspace="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" hspace="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" hspace="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" />
 </p>
-
-
-
-
-
 
 ---
 
@@ -41,9 +36,11 @@ My programming journey began as a self-taught learner, and today I follow a **pr
 
 ---
 
-## 🌐 Contatos | Contact Information
-
-💼 [**LinkedIn**](LINK_DO_LINKEDIN)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [**Portfólio**](https://brunojsdev.github.io/meu-portifolio/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✉️ [**E-mail**](mailto:SEU_EMAIL)
+<p align="center">
+  |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💼 <a href="LINK_DO_LINKEDIN"><strong>LinkedIn</strong></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  📖 <a href="https://brunojsdev.github.io/meu-portifolio/"><strong>Portfólio</strong></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+</p>
 
 ---
 
