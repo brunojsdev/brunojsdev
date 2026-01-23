@@ -1,5 +1,24 @@
 # Olá, eu sou o Bruno!
 
+### 💻 Tecnologias & Ferramentas | Tech Stack
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" hspace="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" hspace="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" hspace="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" hspace="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" hspace="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" hspace="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" hspace="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" />
+</p>
+
+
+
+
+
+
+---
+
 ## Sobre Mim
 
 Olá! Sou um **Desenvolvedor Fullstack Júnior**, apaixonado por transformar ideias em soluções funcionais por meio do código.  
@@ -7,7 +26,7 @@ Minha jornada na programação começou de forma autodidata e, atualmente, sigo 
 
 - 🔭 Atualmente focado em **JavaScript**, **Python** e **Tailwind CSS**
 - 🎓 Expandindo horizontes acadêmicos com **Java** e **arquitetura de sistemas**
-- ⚡ Curiosidade constante e facilidade de adaptação a novas tecnologias
+- 💡 Curiosidade constante e facilidade de adaptação a novas tecnologias
 
 ---
 
@@ -18,36 +37,13 @@ My programming journey began as a self-taught learner, and today I follow a **pr
 
 - 🔭 Currently focusing on **JavaScript**, **Python**, and **Tailwind CSS**
 - 🎓 Expanding academic horizons with **Java** and **systems architecture**
-- ⚡ Constant curiosity and a natural ability to adapt to new technologies
-
----
-
-## 🛠️ Tecnologias & Ferramentas | Tech Stack
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
-</p>
-
+- 💡 Constant curiosity and a natural ability to adapt to new technologies
 
 ---
 
 ## 🌐 Contatos | Contact Information
 
-- 💼 **LinkedIn**  
-  👉 [Acesse meu LinkedIn](LINK_DO_LINKEDIN)
-  
-🌐 <a href="https://brunojsdev.github.io/meu-portifolio/" target="_blank" rel="noopener noreferrer"><strong>Portfólio</strong></a>
-
-
-- ✉️ **E-mail**  
-  👉 [Mande um e-mail](mailto:SEU_EMAIL)
+💼 [**LinkedIn**](LINK_DO_LINKEDIN)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [**Portfólio**](https://brunojsdev.github.io/meu-portifolio/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✉️ [**E-mail**](mailto:SEU_EMAIL)
 
 ---
 
