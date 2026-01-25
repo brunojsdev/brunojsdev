@@ -39,7 +39,7 @@ My programming journey began as a self-taught learner, and today I follow a **pr
 <p align="center">
   |&nbsp;&nbsp;&nbsp;&nbsp;💼 <a href="LINK_DO_LINKEDIN"><strong>LinkedIn</strong></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  📖 <a href="https://brunojsdev.github.io/meu-portifolio/"><strong>Portfólio</strong></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+  📖 <a href="https://brunojsdev.github.io/meu-portfolio/"><strong>Portfólio</strong></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
   &nbsp;&nbsp;&nbsp;&nbsp; ✉️ <a href="LINK_DO_EMAIL"><strong>E-mail</strong></a> &nbsp;&nbsp;&nbsp;&nbsp;|
 </p>
 
