@@ -43,17 +43,11 @@ Desenvolvedor focado na construção de aplicações eficientes e funcionais. At
 ## 🌐 Contato e Portfólio
 
 <p align="left">
-  <a href="LINK_DO_SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="75" />
-  </a>
+  <a href="LINK_DO_SEU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="75" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:SEU_EMAIL@EMAIL.COM" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" width="78" />
-  </a>
+  <a href="mailto:SEU_EMAIL@EMAIL.COM" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" width="78" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://brunojsdev.github.io/meu-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=github&logoColor=white" alt="Portfólio" width="103" />
-  </a>
+  <a href="https://brunojsdev.github.io/meu-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=github&logoColor=white" alt="Portfólio" width="103" /></a>
 </p>
 
 ---
