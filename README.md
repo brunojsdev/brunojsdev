@@ -40,14 +40,6 @@ Desenvolvedor focado na construção de aplicações eficientes e funcionais. At
 
 ---
 
-## 🧩 Informações Adicionais (Hobbies)
-
-Fora do ambiente de desenvolvimento, busco manter um equilíbrio entre criatividade e bem-estar:
-- **Interesses:** Acompanho animações independentes e o universo de Pokémon.
-- **Cultura Pop:** Entusiasta de cinema e quadrinhos (Marvel e DC).
-- **Atividade Física:** Pratico caminhadas como forma de desconexão e foco.
-
----
 ## 🌐 Contato e Portfólio
 
 <p align="left">
@@ -63,6 +55,15 @@ Fora do ambiente de desenvolvimento, busco manter um equilíbrio entre criativid
     <img src="https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=github&logoColor=white" alt="Portfólio" width="103" />
   </a>
 </p>
+
+---
+
+## 🧩 Informações Adicionais (Hobbies)
+
+Fora do ambiente de desenvolvimento, busco manter um equilíbrio entre criatividade e bem-estar:
+- **Interesses:** Acompanho animações independentes e o universo de Pokémon.
+- **Cultura Pop:** Entusiasta de cinema e quadrinhos (Marvel e DC).
+- **Atividade Física:** Pratico caminhadas como forma de desconexão e foco.
 
 ---
 
