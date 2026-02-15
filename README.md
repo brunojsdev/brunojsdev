@@ -1,6 +1,6 @@
 # Bruno Silveira
 
-### Desenvolvedor Júnior
+## Desenvolvedor Júnior
 
 Desenvolvedor focado na construção de aplicações eficientes e funcionais. Atualmente dedico meus estudos ao aprimoramento em tecnologias Front-end e lógica de programação voltada ao Back-end, sempre priorizando a organização do código e o uso de ferramentas de versionamento.
 
