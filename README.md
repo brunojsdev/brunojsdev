@@ -1,4 +1,4 @@
-# Bruno J. Silveira
+# Bruno J Silveira
 
 ### Desenvolvedor Júnior
 
