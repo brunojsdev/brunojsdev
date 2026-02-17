@@ -59,7 +59,7 @@ Fora do ambiente de desenvolvimento, busco manter um equilíbrio entre criativid
 
 ---
 
-## English Version
+##  English Version
 
 **Junior Developer** focused on building functional web solutions.
 - **Skills:** HTML, CSS, JavaScript, Tailwind CSS, Python, and Java.
