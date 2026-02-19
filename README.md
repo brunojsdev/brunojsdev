@@ -45,7 +45,7 @@ Desenvolvedor focado na construção de aplicações eficientes e funcionais. At
 <p align="left">
   <a href="LINK_DO_SEU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:brunojsilveira.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://brunojsdev.github.io/curriculo/" target="_blank"><img src="https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read.cv&logoColor=white" alt="Currículo" /></a>
+  <a href="https://brunojsdev.github.io/curriculo/" target="_blank"><img src="https://img.shields.io/badge/Currículo-007A33?style=for-the-badge&logo=read.cv&logoColor=white" alt="Currículo" /></a>
   <a href="https://brunojsdev.github.io/meu-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio" /></a>
 </p>
 
