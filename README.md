@@ -59,7 +59,7 @@ Desenvolvedor focado na construção de aplicações eficientes e funcionais. At
 
 <p align="center">
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brunojsdev&layout=compact&langs_count=5&theme=radical" />
-  <img height="180" src="https://github-profile-trophy.vercel.app/?username=brunojsdev&theme=radical&column=3&margin-w=15" />
+  <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=brunojsdev&theme=react-dark&bg_color=1a1b27&hide_border=true" />
 </p>
 
 ---
