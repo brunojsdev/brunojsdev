@@ -53,12 +53,16 @@ Desenvolvedor focado na construção de aplicações eficientes e funcionais. At
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunojsdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do Bruno" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunojsdev&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas" height="180">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brunojsdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do Bruno" />
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brunojsdev&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunojsdev&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
-
 ## 🧩 Informações Adicionais (Hobbies)
 
 Fora do ambiente de desenvolvimento, busco manter um equilíbrio entre criatividade e bem-estar:
