@@ -54,12 +54,7 @@ Desenvolvedor focado na construção de aplicações eficientes e funcionais. At
 
 <p align="center">
   <img height="160" src="https://github-readme-stats-one-bice.vercel.app/api?username=brunojsdev&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="Estatísticas do Bruno" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=brunojsdev&theme=merko" alt="GitHub Streak" />  
-</p>
-
-<p align="center">
   <img  src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=brunojsdev&layout=compact&langs_count=7&theme=merko" alt="Linguagens mais usadas" />  
-  <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=brunojsdev&theme=merko&area=true" alt="Gráfico de Atividade" />
 </p>
 
 ---
