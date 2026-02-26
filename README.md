@@ -1,5 +1,15 @@
 # Bruno J. Silveira
 
+## 🌐 Contato e Portfólio
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-j-silveira-b64763390)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunojsilveira.dev@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/551143465977)
+[![Currículo](https://img.shields.io/badge/Currículo-00BCD4?style=for-the-badge&logo=read.cv&logoColor=white)](https://drive.google.com/file/d/1XQvk13FFdZKeQq7Ebo2kFmFg9Olu9pga/view)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white)](https://brunojsdev.github.io/meu-portfolio/)
+
+---
+
 ## Desenvolvedor Júnior
 
 Desenvolvedor focado na construção de aplicações eficientes e funcionais. Atualmente dedico meus estudos ao aprimoramento em tecnologias Front-end e lógica de programação voltada ao Back-end, sempre priorizando a organização do código e o uso de ferramentas de versionamento.
@@ -40,15 +50,7 @@ Desenvolvedor focado na construção de aplicações eficientes e funcionais. At
 
 ---
 
-## 🌐 Contato e Portfólio
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-j-silveira-b64763390)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunojsilveira.dev@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/551143465977)
-[![Currículo](https://img.shields.io/badge/Currículo-00BCD4?style=for-the-badge&logo=read.cv&logoColor=white)](https://drive.google.com/file/d/1XQvk13FFdZKeQq7Ebo2kFmFg9Olu9pga/view)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white)](https://brunojsdev.github.io/meu-portfolio/)
-
----
 
 ## 📊 Estatísticas do GitHub
 
