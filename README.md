@@ -10,24 +10,24 @@ Desenvolvedor focado na construção de aplicações eficientes e funcionais. At
 
 **Front-end:**
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> 
+  <img src="https://img.shields.io/badge/HTML5-5752ff?style=for-the-badge&logo=html5&logoColor=ffdd00" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-5752ff?style=for-the-badge&logo=css3&logoColor=ffdd00" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-5752ff?style=for-the-badge&logo=tailwindcss&logoColor=ffdd00" alt="Tailwind CSS" /> 
 </p>
 
 **Linguagens & Back-end:**
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> 
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> 
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Linguagem C" />
+  <img src="https://img.shields.io/badge/JavaScript-5752ff?style=for-the-badge&logo=javascript&logoColor=ffdd00" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-5752ff?style=for-the-badge&logo=python&logoColor=ffdd00" alt="Python" /> 
+  <img src="https://img.shields.io/badge/Java-5752ff?style=for-the-badge&logo=java&logoColor=ffdd00" alt="Java" /> 
+  <img src="https://img.shields.io/badge/C-5752ff?style=for-the-badge&logo=c&logoColor=ffdd00" alt="Linguagem C" />
 </p>
 
 **Ferramentas:**
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-5752ff?style=for-the-badge&logo=git&logoColor=ffdd00" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-5752ff?style=for-the-badge&logo=github&logoColor=ffdd00" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-5752ff?style=for-the-badge&logo=visual-studio-code&logoColor=ffdd00" alt="VS Code" />
 </p>
 
 ---
@@ -35,19 +35,22 @@ Desenvolvedor focado na construção de aplicações eficientes e funcionais. At
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=brunojsdev&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="Estatísticas do Bruno" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=brunojsdev&layout=compact&langs_count=7&theme=merko" alt="Linguagens mais usadas" />  
+  <!-- Estatísticas Gerais com escala forçada via parâmetro de visualização -->
+  <img height="230" src="https://github-readme-stats-one-bice.vercel.app/api?username=brunojsdev&show_icons=true&theme=none&bg_color=040014&title_color=ffdd00&text_color=c9e4ff&icon_color=5752ff&border_color=5752ff&include_all_commits=true&count_private=true&hide_border=false" alt="Estatísticas do Bruno" />
+  
+  <!-- Linguagens: Aumentamos o langs_count para 8 e ajustamos o layout para ocupar mais espaço vertical -->
+  <img height="230" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=brunojsdev&layout=compact&langs_count=8&theme=none&bg_color=040014&title_color=ffdd00&text_color=c9e4ff&icon_color=5752ff&border_color=5752ff&hide_border=false" alt="Linguagens mais usadas" />  
 </p>
 
 ---
 
 ## 🌐 Contato e Portfólio
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-j-silveira-b64763390)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunojsilveira.dev@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/551143465977)
-[![Currículo](https://img.shields.io/badge/Currículo-00BCD4?style=for-the-badge&logo=read.cv&logoColor=white)](https://drive.google.com/file/d/1XQvk13FFdZKeQq7Ebo2kFmFg9Olu9pga/view)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white)](https://brunojsdev.github.io/meu-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5752ff?style=for-the-badge&logo=linkedin&logoColor=ffdd00)](https://www.linkedin.com/in/bruno-j-silveira-b64763390)
+[![Email](https://img.shields.io/badge/Email-5752ff?style=for-the-badge&logo=gmail&logoColor=ffdd00)](mailto:brunojsilveira.dev@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-5752ff?style=for-the-badge&logo=whatsapp&logoColor=ffdd00)](https://wa.me/551143465977)
+[![Currículo](https://img.shields.io/badge/Currículo-5752ff?style=for-the-badge&logo=read.cv&logoColor=ffdd00)](https://drive.google.com/file/d/1XQvk13FFdZKeQq7Ebo2kFmFg9Olu9pga/view)
+[![Portfólio](https://img.shields.io/badge/Portfólio-5752ff?style=for-the-badge&logo=github&logoColor=ffdd00)](https://brunojsdev.github.io/meu-portfolio/)
 
 ---
 
