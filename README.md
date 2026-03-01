@@ -35,22 +35,20 @@ Desenvolvedor focado na construção de aplicações eficientes e funcionais. At
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <!-- Estatísticas Gerais com escala forçada via parâmetro de visualização -->
-  <img height="230" src="https://github-readme-stats-one-bice.vercel.app/api?username=brunojsdev&show_icons=true&theme=none&bg_color=040014&title_color=ffdd00&text_color=c9e4ff&icon_color=5752ff&border_color=5752ff&include_all_commits=true&count_private=true&hide_border=false" alt="Estatísticas do Bruno" />
-  
-  <!-- Linguagens: Aumentamos o langs_count para 8 e ajustamos o layout para ocupar mais espaço vertical -->
-  <img height="230" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=brunojsdev&layout=compact&langs_count=8&theme=none&bg_color=040014&title_color=ffdd00&text_color=c9e4ff&icon_color=5752ff&border_color=5752ff&hide_border=false" alt="Linguagens mais usadas" />  
+  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=brunojsdev&show_icons=true&theme=none&bg_color=040014&title_color=ffdd00&text_color=c9e4ff&icon_color=5752ff&border_color=5752ff&include_all_commits=true&count_private=true" alt="Estatísticas do Bruno" />
+  &nbsp;&nbsp;
+  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=brunojsdev&layout=compact&langs_count=7&theme=none&bg_color=040014&title_color=ffdd00&text_color=c9e4ff&icon_color=5752ff&border_color=5752ff" alt="Linguagens mais usadas" />  
 </p>
 
 ---
 
 ## 🌐 Contato e Portfólio
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5752ff?style=for-the-badge&logo=linkedin&logoColor=ffdd00)](https://www.linkedin.com/in/bruno-j-silveira-b64763390)
-[![Email](https://img.shields.io/badge/Email-5752ff?style=for-the-badge&logo=gmail&logoColor=ffdd00)](mailto:brunojsilveira.dev@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-5752ff?style=for-the-badge&logo=whatsapp&logoColor=ffdd00)](https://wa.me/551143465977)
-[![Currículo](https://img.shields.io/badge/Currículo-5752ff?style=for-the-badge&logo=read.cv&logoColor=ffdd00)](https://drive.google.com/file/d/1XQvk13FFdZKeQq7Ebo2kFmFg9Olu9pga/view)
-[![Portfólio](https://img.shields.io/badge/Portfólio-5752ff?style=for-the-badge&logo=github&logoColor=ffdd00)](https://brunojsdev.github.io/meu-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0069fc?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/bruno-j-silveira-b64763390)
+[![Email](https://img.shields.io/badge/Email-fc1100?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:brunojsilveira.dev@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-00b80c?style=for-the-badge&logo=whatsapp&logoColor=ffffff)](https://wa.me/551143465977)
+[![Currículo](https://img.shields.io/badge/Currículo-4512de?style=for-the-badge&logo=read.cv&logoColor=ffffff)](https://drive.google.com/file/d/1XQvk13FFdZKeQq7Ebo2kFmFg9Olu9pga/view)
+[![Portfólio](https://img.shields.io/badge/Portfólio-050400?style=for-the-badge&logo=github&logoColor=ffffff)](https://brunojsdev.github.io/meu-portfolio/)
 
 ---
 
