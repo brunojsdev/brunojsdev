@@ -10,24 +10,24 @@ Desenvolvedor focado na construção de aplicações eficientes e funcionais. At
 
 **Front-end:**
 <p>
-  <img src="https://img.shields.io/badge/HTML5-5752ff?style=for-the-badge&logo=html5&logoColor=ffdd00" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-5752ff?style=for-the-badge&logo=css3&logoColor=ffdd00" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-5752ff?style=for-the-badge&logo=tailwindcss&logoColor=ffdd00" alt="Tailwind CSS" /> 
+  <img src="https://img.shields.io/badge/HTML5-4420b0?style=for-the-badge&logo=html5&logoColor=ffaa00" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-4420b0?style=for-the-badge&logo=css3&logoColor=ffaa00" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-4420b0?style=for-the-badge&logo=tailwindcss&logoColor=ffaa00" alt="Tailwind CSS" /> 
 </p>
 
 **Linguagens & Back-end:**
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-5752ff?style=for-the-badge&logo=javascript&logoColor=ffdd00" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-5752ff?style=for-the-badge&logo=python&logoColor=ffdd00" alt="Python" /> 
-  <img src="https://img.shields.io/badge/Java-5752ff?style=for-the-badge&logo=java&logoColor=ffdd00" alt="Java" /> 
-  <img src="https://img.shields.io/badge/C-5752ff?style=for-the-badge&logo=c&logoColor=ffdd00" alt="Linguagem C" />
+  <img src="https://img.shields.io/badge/JavaScript-4420b0?style=for-the-badge&logo=javascript&logoColor=ffaa00" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-4420b0?style=for-the-badge&logo=python&logoColor=ffaa00" alt="Python" /> 
+  <img src="https://img.shields.io/badge/Java-4420b0?style=for-the-badge&logo=java&logoColor=ffaa00" alt="Java" /> 
+  <img src="https://img.shields.io/badge/C-4420b0?style=for-the-badge&logo=c&logoColor=ffaa00" alt="Linguagem C" />
 </p>
 
 **Ferramentas:**
 <p>
-  <img src="https://img.shields.io/badge/Git-5752ff?style=for-the-badge&logo=git&logoColor=ffdd00" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-5752ff?style=for-the-badge&logo=github&logoColor=ffdd00" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-5752ff?style=for-the-badge&logo=visual-studio-code&logoColor=ffdd00" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-4420b0?style=for-the-badge&logo=git&logoColor=ffaa00" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-4420b0?style=for-the-badge&logo=github&logoColor=ffaa00" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-4420b0?style=for-the-badge&logo=visual-studio-code&logoColor=ffaa00" alt="VS Code" />
 </p>
 
 ---
