@@ -6,7 +6,7 @@ Desenvolvedor focado na construção de aplicações eficientes e funcionais. At
 
 ---
 
-## 🛠️ Tecnologias e Habilidades
+## ⚡ Tecnologias e Habilidades
 
 **Front-end:**
 <p>
@@ -32,7 +32,7 @@ Desenvolvedor focado na construção de aplicações eficientes e funcionais. At
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🔮 Estatísticas do GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=brunojsdev&show_icons=true&theme=none&bg_color=040014&title_color=ffdd00&text_color=c9e4ff&icon_color=5752ff&border_color=5752ff&include_all_commits=true&count_private=true" alt="Estatísticas do Bruno" />
@@ -42,7 +42,7 @@ Desenvolvedor focado na construção de aplicações eficientes e funcionais. At
 
 ---
 
-## 🌐 Contato e Portfólio
+## 🪪 Contato e Portfólio
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0069fc?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/bruno-j-silveira-b64763390)
 [![Email](https://img.shields.io/badge/Email-fc1100?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:brunojsilveira.dev@gmail.com)
@@ -52,7 +52,7 @@ Desenvolvedor focado na construção de aplicações eficientes e funcionais. At
 
 ---
 
-## 📈 Objetivos Profissionais
+## 🌟 Objetivos Profissionais
 
 - Desenvolvimento de interfaces responsivas e otimizadas com Tailwind CSS.
 - Implementação de lógica de programação robusta utilizando Python e Java.
@@ -60,7 +60,7 @@ Desenvolvedor focado na construção de aplicações eficientes e funcionais. At
 
 ---
 
-## 🧩 Informações Adicionais (Hobbies)
+## 🎬 Informações Adicionais (Hobbies)
 
 Fora do ambiente de desenvolvimento, busco manter um equilíbrio entre criatividade e bem-estar:
 - **Interesses:** Acompanho animações independentes e o universo de Pokémon.
