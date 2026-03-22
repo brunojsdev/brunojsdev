@@ -47,8 +47,8 @@ Desenvolvedor focado na construção de aplicações eficientes e funcionais. At
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0069fc?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/bruno-j-silveira-b64763390)
 [![Email](https://img.shields.io/badge/Email-fc1100?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:brunojsilveira.dev@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-00b80c?style=for-the-badge&logo=whatsapp&logoColor=ffffff)](https://wa.me/551143465977)
-[![Currículo](https://img.shields.io/badge/Currículo-4512de?style=for-the-badge&logo=read.cv&logoColor=ffffff)](https://drive.google.com/file/d/1jWRawXNoUQkWLA0RHEzWmdBZr5lZUM1g/view)
-[![Portfólio](https://img.shields.io/badge/Portfólio-050400?style=for-the-badge&logo=github&logoColor=ffffff)](https://brunojsdev.github.io/meu-portfolio/)
+[![Currículo](https://img.shields.io/badge/Currículo-4512de?style=for-the-badge&logo=read.cv&logoColor=ffffff)](https://drive.google.com/file/d/1t2DajlJwI-84VLO5ucwGJvo1viQvGNV0/view)
+[![Portfólio](https://img.shields.io/badge/Portfólio-050400?style=for-the-badge&logo=github&logoColor=ffffff)](https://brunojsilveira.vercel.app/)
 
 ---
 
