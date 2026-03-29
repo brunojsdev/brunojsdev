@@ -20,7 +20,6 @@ Desenvolvedor focado na construção de aplicações eficientes e funcionais. At
   <img src="https://img.shields.io/badge/JavaScript-4420b0?style=for-the-badge&logo=javascript&logoColor=ffaa00" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-4420b0?style=for-the-badge&logo=python&logoColor=ffaa00" alt="Python" /> 
   <img src="https://img.shields.io/badge/Java-4420b0?style=for-the-badge&logo=java&logoColor=ffaa00" alt="Java" /> 
-  <img src="https://img.shields.io/badge/C-4420b0?style=for-the-badge&logo=c&logoColor=ffaa00" alt="Linguagem C" />
 </p>
 
 **Ferramentas:**
